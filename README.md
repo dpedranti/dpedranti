@@ -40,7 +40,6 @@ Specializing in LLM integration, Retrieval-Augmented Generation (RAG), agentic A
 - 🐦 X / Twitter: [@dpedranti](https://x.com/dpedranti)
 - ✍️ Dev.to: [dev.to/derrickpedranti](https://dev.to/derrickpedranti)
 - 📌 Pinterest: [pinterest.com/derrickpedranti](https://www.pinterest.com/derrickpedranti/)
-- 💻 GitHub: [github.com/dpedranti](https://github.com/dpedranti)
 
 ---
 
